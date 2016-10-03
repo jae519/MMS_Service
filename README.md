@@ -1,2 +1,2 @@
 # MMS_Service
-Maritime Message Service 
+A Project for Maritime Message Service.
