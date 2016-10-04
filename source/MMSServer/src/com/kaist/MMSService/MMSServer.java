@@ -58,10 +58,9 @@ public class MMSServer {
 }
 
 class EhcoServerHandler extends ChannelHandlerAdapter {
-	// 채널을 읽을 때 동작할 코드를 정의 합니다.
-	@Override
-	public void channelRead(ChannelHandlerContext ctx, Object msg)
-			throws Exception {
+	
+	
+	public void channelRead(ChannelHandlerContext ctx, Object msg) throws Exception {
 		ctx.write(msg); // 메시지를 그대로 다시 write 합니다.
 	}
 
