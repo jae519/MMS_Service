@@ -1,4 +1,4 @@
-package com.example.jaehee.mms_client;
+package com.example.jaehee.mmsclient;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

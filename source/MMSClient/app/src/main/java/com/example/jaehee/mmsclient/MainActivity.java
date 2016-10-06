@@ -1,4 +1,4 @@
-package com.example.jaehee.mms_client;
+package com.example.jaehee.mmsclient;
 
 import android.os.AsyncTask;
 import android.support.v7.app.AppCompatActivity;
