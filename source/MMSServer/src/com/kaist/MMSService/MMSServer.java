@@ -22,6 +22,7 @@ public class MMSServer {
 		EventLoopGroup parentGroup = new NioEventLoopGroup(1);
 		EventLoopGroup childGroup = new NioEventLoopGroup();
 		try{
+			// asdfasdf
 			// 서버 부트스트랩을 만듭니다. 이 클래스는 일종의 헬퍼 클래스입니다.
 			// 이 클래스를 사용하면 서버에서 Channel을 직접 세팅 할 수 있습니다.
 			ServerBootstrap sb = new ServerBootstrap();
